@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 1
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 2
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD2.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 3
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD3.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 4
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD4.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 5
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD5.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 6
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD6.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
