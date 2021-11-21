@@ -40,7 +40,7 @@ https://x.incstream.digital/719/tracks-v1a1/mono.m3u8
 https://x.incstream.digital/720/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BEIN SPORTS 1
 https://x.incstream.digital/721/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BEIN SPORTS 1
+#EXTINF:-1,BEIN SPORTS 1------
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann1/chunklist.m3u8
 #EXTINF:-1,BEIN SPORTS 1
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann2/chunklist.m3u8
@@ -100,13 +100,13 @@ http://31.220.41.88:8081/live/tr-bein1.stream/chunks.m3u8
 http://31.220.41.88:8081/live/tr-bein2.stream/chunks.m3u8
 #EXTINF:-1,BEIN SPORTS 1
 http://31.220.41.88:8081/live/tr-bein3.stream/chunks.m3u8
-#EXTINF:-1,BEIN SPORTS 1
+#EXTINF:-1,BEIN SPORTS 1----
 https://bqwa.871be05890b126.cdn.fdcservers.com/assets/13.js
-#EXTINF:-1,BEIN SPORTS 1
+#EXTINF:-1,BEIN SPORTS 1--
 https://bqwa.871be05890b126.cdn.fdcservers.com/assets/9.js
-#EXTINF:-1,BEIN SPORTS 1
+#EXTINF:-1,BEIN SPORTS 1--
 https://bqwa.871be05890b126.cdn.fdcservers.com/assets/11.js
-#EXTINF:-1,BEIN SPORTS 1
+#EXTINF:-1,BEIN SPORTS 1---
 http://37.221.122.86:8383/hls/trspor/1_2/index.m3u8
 #EXTINF:-1 ,bein
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-bein-beinxtra-rokuus/0acad30f-4070-4ae2-a2c7-5d20925cc61c/2.m3u8
