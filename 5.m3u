@@ -195,3 +195,17 @@ https://77-247-178-24.livesports24.online/rusetantaeurasia.m3u8
 https://95-213-224-186.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1, Rus Spor premier lig
 https://95-213-224-180.livesports24.online/belarusss5.m3u8
+#EXTINF:-1, Canal + Plus hd
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TVP Sport
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Eleven Sport 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, K Sport 1
+http://93.157.62.180/KSport1/index.m3u8
+#EXTINF:-1, K Sport 2
+http://93.157.62.180/KSport2/index.m3u8
+#EXTINF:-1, K Sport 3
+http://93.157.62.180/KSport3/index.m3u8
+#EXTINF:-1, K Sport 4
+http://93.157.62.180/KSport4/index.m3u8
