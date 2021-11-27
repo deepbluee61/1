@@ -209,3 +209,21 @@ http://93.157.62.180/KSport2/index.m3u8
 http://93.157.62.180/KSport3/index.m3u8
 #EXTINF:-1, K Sport 4
 http://93.157.62.180/KSport4/index.m3u8
+#EXTINF:-1, bein sport 1 
+https://cdn1.incstream.digital/701/tracks-v1a1/mono.m3u8
+#EXTINF:-1, bein sport 2
+https://cdn1.incstream.digital/702/tracks-v1a1/mono.m3u8
+#EXTINF:-1, bein sport 3
+https://cdn1.incstream.digital/703/tracks-v1a1/mono.m3u8
+#EXTINF:-1, bein sport 4
+https://cdn1.incstream.digital/704/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Ssport 
+https://cdn1.incstream.digital/705/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Ssport 2 
+https://cdn1.incstream.digital/706/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SporSmart
+https://cdn1.incstream.digital/707/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Tivibuspor
+https://cdn1.incstream.digital/708/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Aspor
+https://cdn1.incstream.digital/709/tracks-v1a1/mono.m3u8
