@@ -1,4 +1,4 @@
-#EXTM3U
+x#EXTM3U
 #EXTINF:-1,-----
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann1/chunklist.m3u8
 #EXTINF:-1,BEIN SPORTS 1
@@ -239,9 +239,9 @@ https://cdn1.incstream.digital/713/tracks-v1a1/mono.m3u8
 https://cdn1.incstream.digital/714/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Spor
 https://cdn1.incstream.digital/715/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Spor
+#EXTINF:-1, bein max
 https://cdn1.incstream.digital/716/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Spor
+#EXTINF:-1, bein max
 https://cdn1.incstream.digital/717/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Bein max 1
 https://cdn1.incstream.digital/712/tracks-v1a1/mono.m3u8
