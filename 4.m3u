@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,-----
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann1/chunklist.m3u8
+#EXTINF:-1, bein sport 1 
+https://cdn1.incstream.digital/701/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BEIN SPORTS 1
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann2/chunklist.m3u8
 #EXTINF:-1, BEIN SPORTS 1-tr ydk
@@ -13,10 +15,16 @@ https://hlm3.gcdn.co/ME5698URyoUlDcOLoZ8Z4A,1637588371/hlslive/5500.m3u8
 http://fatihigotten67.xyz/beinsport2/index.m3u8
 #EXTINF:-1,BEIN SPORTS 2
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann3/chunklist.m3u8
+#EXTINF:-1, bein sport 2
+https://cdn1.incstream.digital/702/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BEIN SPORTS 3
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann4/chunklist.m3u8
+#EXTINF:-1, bein sport 3
+https://cdn1.incstream.digital/703/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BEIN SPORTS 4
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann5/chunklist.m3u8
+#EXTINF:-1, bein sport 4
+https://cdn1.incstream.digital/704/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BEIN SPORTS 4-
 http://fatihigotten67.xyz/beinsport4/index.m3u8
 #EXTINF:-1,BEIN SPORTS Max 1
@@ -65,8 +73,12 @@ https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann12/chunklist.m3u8
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann13/chunklist.m3u8
 #EXTINF:-1,S Sport  
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann14/chunklist.m3u8
+#EXTINF:-1, Ssport 
+https://cdn1.incstream.digital/705/tracks-v1a1/mono.m3u8
 #EXTINF:-1,S Sport
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann15/chunklist.m3u8
+#EXTINF:-1, Ssport 2 
+https://cdn1.incstream.digital/706/tracks-v1a1/mono.m3u8
 #EXTINF:-1,S Sport
 https://hlm3.gcdn.co/ME5698URyoUlDcOLoZ8Z4A,1637588371/hlslive/190.m3u8
 #EXTINF:-1,S Sport
@@ -111,18 +123,6 @@ https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann31/chunklist.m3u8
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann32/chunklist.m3u8
 #EXTINF:-1,------
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann33/chunklist.m3u8
-#EXTINF:-1, bein sport 1 
-https://cdn1.incstream.digital/701/tracks-v1a1/mono.m3u8
-#EXTINF:-1, bein sport 2
-https://cdn1.incstream.digital/702/tracks-v1a1/mono.m3u8
-#EXTINF:-1, bein sport 3
-https://cdn1.incstream.digital/703/tracks-v1a1/mono.m3u8
-#EXTINF:-1, bein sport 4
-https://cdn1.incstream.digital/704/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Ssport 
-https://cdn1.incstream.digital/705/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Ssport 2 
-https://cdn1.incstream.digital/706/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SporSmart
 https://cdn1.incstream.digital/707/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Tivibuspor
