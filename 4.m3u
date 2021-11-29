@@ -3,6 +3,8 @@
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann1/chunklist.m3u8
 #EXTINF:-1, bein sport 1 
 https://cdn1.incstream.digital/701/tracks-v1a1/mono.m3u8
+#EXTINF:-1, bein sport 1 
+https://cdn2.incstream.digital/701/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BEIN SPORTS 1
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann2/chunklist.m3u8
 #EXTINF:-1, BEIN SPORTS 1-tr ydk
@@ -20,17 +22,23 @@ https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann3/chunklist.m3u8
 #EXTINF:-1, bein sport 2
 https://cdn1.incstream.digital/702/tracks-v1a1/mono.m3u8
 #EXTINF:-1, bein sport 2
+https://cdn2.incstream.digital/702/tracks-v1a1/mono.m3u8
+#EXTINF:-1, bein sport 2
 http://2.centurl.cloud/beinsport2/index.m3u8
 #EXTINF:-1,BEIN SPORTS 3
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann4/chunklist.m3u8
 #EXTINF:-1, bein sport 3
 https://cdn1.incstream.digital/703/tracks-v1a1/mono.m3u8
 #EXTINF:-1, bein sport 3
+https://cdn2.incstream.digital/703/tracks-v1a1/mono.m3u8
+#EXTINF:-1, bein sport 3
 http://3.centurl.cloud/beinsport2/index.m3u8
 #EXTINF:-1,BEIN SPORTS 4
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann5/chunklist.m3u8
 #EXTINF:-1, bein sport 4
 https://cdn1.incstream.digital/704/tracks-v1a1/mono.m3u8
+#EXTINF:-1, bein sport 4
+https://cdn2.incstream.digital/704/tracks-v1a1/mono.m3u8
 #EXTINF:-1, bein sport 4
 http://4.centurl.cloud/beinsport2/index.m3u8
 #EXTINF:-1,BEIN SPORTS 4-
