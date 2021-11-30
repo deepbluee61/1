@@ -223,3 +223,53 @@ http://93.157.62.180/KSport2/index.m3u8
 http://93.157.62.180/KSport3/index.m3u8
 #EXTINF:-1, K Sport 4
 http://93.157.62.180/KSport4/index.m3u8
+#EXTINF:-1, Bein 1 sd
+http://goldcdn3.tk/fatih1/index.m3u8
+#EXTINF:-1, Bein 2 sd
+http://goldcdn3.tk/beinsport2/index.m3u8
+#EXTINF:-1, Bein 2 sd
+http://goldcdn5.tk/beinsport2/index.m3u8
+#EXTINF:-1, Bein 2 sd
+http://goldcdn6.tk/beinsport2/index.m3u8
+#EXTINF:-1, Bein 3 sd
+http://goldcdn3.tk/liqtv3/index.m3u8
+#EXTINF:-1, Bein 3 sd
+http://goldcdn5.tk/liqtv3/index.m3u8
+#EXTINF:-1, Bein 3 sd
+http://goldcdn6.tk/liqtv3/index.m3u8
+#EXTINF:-1, bein max1
+http://goldcdn3.tk/max1/index.m3u8
+#EXTINF:-1, bein max1
+http://goldcdn5.tk/max1/index.m3u8
+#EXTINF:-1, bein max1
+http://goldcdn6.tk/max1/index.m3u8
+#EXTINF:-1, bein max2
+http://goldcdn3.tk/max2/index.m3u8
+#EXTINF:-1, bein max2
+http://goldcdn5.tk/max2/index.m3u8
+#EXTINF:-1, bein max2
+http://goldcdn6.tk/max2/index.m3u8
+#EXTINF:-1, s sport 1
+http://goldcdn3.tk/ssport1/index.m3u8
+#EXTINF:-1, s sport 1
+http://goldcdn5.tk/ssport1/index.m3u8
+#EXTINF:-1, s sport 1
+http://goldcdn6.tk/ssport1/index.m3u8
+#EXTINF:-1, s sport 2
+http://goldcdn3.tk/ssport2/index.m3u8
+#EXTINF:-1, s sport 2
+http://goldcdn5.tk/ssport2/index.m3u8
+#EXTINF:-1, s sport 2
+http://goldcdn6.tk/ssport2/index.m3u8
+#EXTINF:-1,tivibu 3
+http://goldcdn3.tk/tivibu3/index.m3u8
+#EXTINF:-1, tivibu 3
+http://goldcdn5.tk/tivibu3/index.m3u8
+#EXTINF:-1, tivibu 3
+http://goldcdn6.tk/tivibu3/index.m3u8
+#EXTINF:-1, tivibu 4
+http://goldcdn3.tk/tivibu4/index.m3u8
+#EXTINF:-1, tivibu 4
+http://goldcdn5.tk/tivibu4/index.m3u8
+#EXTINF:-1, tivibu 4
+http://goldcdn6.tk/tivibu4/index.m3u8
