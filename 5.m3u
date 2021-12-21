@@ -7,6 +7,12 @@ http://lara.plumetech.xyz:8080/live/erdem65/65erdem/213610.m3u8
 http://klasman1.xyz/hls/b1.m3u8
 #EXTINF:-1,beyin1
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann1/chunklist.m3u8
+#EXTINF:-1, Bein S1
+https://pmpa.bf39d85898d446.cdn.fdcservers.com/test/chann35/chunklist.m3u8
+#EXTINF:-1, Bein S1
+https://pmpa.bf39d85898d446.cdn.fdcservers.com/test/chann34/chunklist.m3u8
+#EXTINF:-1, Bein S1
+https://pmpa.bf39d85898d446.cdn.fdcservers.com/test/chann2/chunklist.m3u8
 #EXTINF:-1, bein sport 1 
 https://cdn1.incstream.digital/701/tracks-v1a1/mono.m3u8
 #EXTINF:-1, bein sport 1 
@@ -23,40 +29,78 @@ https://hlm3.gcdn.co/ME5698URyoUlDcOLoZ8Z4A,1637588371/hlslive/5500.m3u8
 http://5.centurl.cloud/fatih1/index.m3u8
 #EXTINF:-1,BEIN SPORTS 1 tr ydk
 http://fatihigotten67.xyz/beinsport2/index.m3u8
+#EXTINF:-1, Bein S1
+https://bqwa.23bd24e6e48a1c.cdn.fdcservers.com/assets/14.js
+#EXTINF:-1, MALUM 1
+http://109.169.37.138:8000/live/megaott1000/4p7c4mMdLn/14795.m3u8
+#EXTINF:-1, MALUM 1
+http://v9.mostpeople9.tk:80/nirvana5/index.m3u8
+#EXTINF:-1, beyin 1
+http://klasman2.xyz/hls/b1.m3u8
+#EXTINF:-1, beyin 1
+http://109.169.37.138:8000/live/megaott1000/4p7c4mMdLn/14795.m3u8
+#EXTINF:-1, beyin 1
+https://list.iptvcat.com/my_list/s/cea54fdab8d6fdab938a43cc871027eb.m3u8
+#EXTINF:-1, beyin 2
+http://klasman2.xyz/hls/b2.m3u8
 #EXTINF:-1,BEIN SPORTS 2
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann3/chunklist.m3u8
+#EXTINF:-1, Bein S2
+https://pmpa.bf39d85898d446.cdn.fdcservers.com/test/chann3/chunklist.m3u8
 #EXTINF:-1, bein sport 2
 https://cdn1.incstream.digital/702/tracks-v1a1/mono.m3u8
 #EXTINF:-1, bein sport 2
 https://cdn2.incstream.digital/702/tracks-v1a1/mono.m3u8
 #EXTINF:-1, bein sport 2
 http://2.centurl.cloud/beinsport2/index.m3u8
+#EXTINF:-1, beyin 2
+http://klasman1.xyz/hls/b2.m3u8
+#EXTINF:-1, Bein S2
+https://bqwa.23bd24e6e48a1c.cdn.fdcservers.com/assets/9.js
 #EXTINF:-1,BEIN SPORTS 3
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann4/chunklist.m3u8
+#EXTINF:-1, Bein S3
+https://pmpa.bf39d85898d446.cdn.fdcservers.com/test/chann4/chunklist.m3u8
 #EXTINF:-1, bein sport 3
 https://cdn1.incstream.digital/703/tracks-v1a1/mono.m3u8
 #EXTINF:-1, bein sport 3
 https://cdn2.incstream.digital/703/tracks-v1a1/mono.m3u8
 #EXTINF:-1, bein sport 3
 http://3.centurl.cloud/beinsport2/index.m3u8
+#EXTINF:-1, beyin 3
+http://klasman1.xyz/hls/b3.m3u8
+#EXTINF:-1, Bein S3
+https://bqwa.23bd24e6e48a1c.cdn.fdcservers.com/assets/11.js
 #EXTINF:-1,BEIN SPORTS 4
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann5/chunklist.m3u8
+#EXTINF:-1, Bein S4
+https://pmpa.bf39d85898d446.cdn.fdcservers.com/test/chann5/chunklist.m3u8
 #EXTINF:-1, bein sport 4
 https://cdn1.incstream.digital/704/tracks-v1a1/mono.m3u8
 #EXTINF:-1, bein sport 4
 https://cdn2.incstream.digital/704/tracks-v1a1/mono.m3u8
 #EXTINF:-1, bein sport 4
 http://4.centurl.cloud/beinsport2/index.m3u8
+#EXTINF:-1, beyin 4
+http://klasman1.xyz/hls/b4.m3u8
 #EXTINF:-1,BEIN SPORTS 4-
 http://fatihigotten67.xyz/beinsport4/index.m3u8
+#EXTINF:-1, Bein S4
+https://bqwa.23bd24e6e48a1c.cdn.fdcservers.com/assets/11.js
 #EXTINF:-1,BEIN SPORTS Max 1
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann6/chunklist.m3u8
+#EXTINF:-1, Bein S max
+https://pmpa.bf39d85898d446.cdn.fdcservers.com/test/chann6/chunklist.m3u8
 #EXTINF:-1,BEIN SPORTS Max 1-
 http://fatihigotten67.xyz/max1/index.m3u8
+#EXTINF:-1, beyin maks 1
+http://klasman1.xyz/hls/bb1.m3u8
 #EXTINF:-1,BEIN SPORTS Max 2
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann7/chunklist.m3u8
 #EXTINF:-1,BEIN SPORTS Max 2-
 http://fatihigotten67.xyz/max2/index.m3u8
+#EXTINF:-1, beyin maks 2
+http://klasman1.xyz/hls/bb2.m3u8
 #EXTINF:-1 ,Rus -1 HD
 https://95-213-224-179.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 ,Rus -1 HD - 1
@@ -91,14 +135,26 @@ http://fatihigotten63.xyz/tivibu3/index.m3u8
 http://fatihigotten63.xyz/tivibu4/index.m3u8
 #EXTINF:-1,Spor Smart HD 1
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann12/chunklist.m3u8
+#EXTINF:-1, Dsmart spor 
+https://pmpa.bf39d85898d446.cdn.fdcservers.com/test/chann12/chunklist.m3u8
 #EXTINF:-1,Spor Smart HD 2
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann13/chunklist.m3u8
+#EXTINF:-1, Dsmart spor 2
+https://pmpa.bf39d85898d446.cdn.fdcservers.com/test/chann13/chunklist.m3u8
 #EXTINF:-1,S Sport  
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann14/chunklist.m3u8
 #EXTINF:-1, Ssport 
 https://cdn1.incstream.digital/705/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Ssport 
+http://klasman1.xyz/hls/ss1.m3u8
 #EXTINF:-1,S Sport
 https://pmpa.3e59a6e4903c9b.cdn.fdcservers.com/test/chann15/chunklist.m3u8
+#EXTINF:-1, Ssport 
+https://pmpa.bf39d85898d446.cdn.fdcservers.com/test/chann14/chunklist.m3u8
+#EXTINF:-1, Ssport2
+https://pmpa.bf39d85898d446.cdn.fdcservers.com/test/chann15/chunklist.m3u8
+#EXTINF:-1, Ssport 2
+http://klasman1.xyz/hls/ss2.m3u8
 #EXTINF:-1, Ssport 2 
 https://cdn1.incstream.digital/706/tracks-v1a1/mono.m3u8
 #EXTINF:-1,S Sport
