@@ -527,4 +527,67 @@ http://klasman1.xyz/hls/smrt1.m3u8
 http://klasman1.xyz/hls/smrt2.m3u8
 #EXTINF:-1, tivibu2
 http://klasman1.xyz/hls/tb2.m3u8
-
+#EXTINF:-1, Bein S1
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann2/chunklist.m3u8
+#EXTINF:-1, Bein S1
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann34/chunklist.m3u8
+#EXTINF:-1, Bein S1
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann35/chunklist.m3u8
+#EXTINF:-1, Bein S1
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann73/chunklist.m3u8
+#EXTINF:-1, Bein S2
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann3/chunklist.m3u8
+#EXTINF:-1, Bein S3
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann4/chunklist.m3u8
+#EXTINF:-1, Bein S4
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann5/chunklist.m3u8
+#EXTINF:-1, Bein Sport max
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann6/chunklist.m3u8
+#EXTINF:-1, Bein Sport max 2
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann7/chunklist.m3u8
+#EXTINF:-1, Bein haber
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann8/chunklist.m3u8
+#EXTINF:-1, S SPORT 
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann14/chunklist.m3u8
+#EXTINF:-1, S SPORT 2
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann15/chunklist.m3u8
+#EXTINF:-1, SPOR SMART 2
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann13/chunklist.m3u8
+#EXTINF:-1, SPOR SMART 
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann12/chunklist.m3u8
+#EXTINF:-1, TİVİBU SPOR 2
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann10/chunklist.m3u8
+#EXTINF:-1, TİVİBU SPOR 3
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann11/chunklist.m3u8
+#EXTINF:-1, EUROSPORT
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann17/chunklist.m3u8
+#EXTINF:-1, EUROSPORT 2
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann18/chunklist.m3u8
+#EXTINF:-1, A SPOR
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann22/chunklist.m3u8
+#EXTINF:-1, SPORT TV 1 (ALMANYA)
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann66/chunklist.m3u8
+#EXTINF:-1, SPORT TV 2 (ALMANYA)
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann67/chunklist.m3u8
+#EXTINF:-1, BEIN 1 (maç saati akitf)
+http://klasman1.xyz/hls/b1.m3u8
+#EXTINF:-1, beyin 2
+http://klasman1.xyz/hls/b2.m3u8
+#EXTINF:-1, beyin 3
+http://klasman1.xyz/hls/b3.m3u8
+#EXTINF:-1, beyin 4
+http://klasman1.xyz/hls/b4.m3u8
+#EXTINF:-1, beyin maks 1
+http://klasman1.xyz/hls/bb1.m3u8
+#EXTINF:-1, beyin maks 2
+http://klasman1.xyz/hls/bb2.m3u8
+#EXTINF:-1, Ssport 
+http://klasman1.xyz/hls/ss1.m3u8
+#EXTINF:-1, Ssport 2
+http://klasman1.xyz/hls/ss2.m3u8
+#EXTINF:-1, SporSmart1
+http://klasman1.xyz/hls/smrt1.m3u8
+#EXTINF:-1, SporSmart1
+http://klasman1.xyz/hls/smrt2.m3u8
+#EXTINF:-1, tivibu2
+http://klasman1.xyz/hls/tb2.m3u8
