@@ -1,5 +1,15 @@
 #EXTM3U
 #EXTINF:-1,beyin1
+http://redoiptv101.com:8080/live/Osman25/Osman25/7.m3u8
+#EXTINF:-1,beyin11
+http://redoiptv101.com:8080/live/Osman25/Osman25/65245.m3u8
+#EXTINF:-1,beyin111
+http://redoiptv101.com:8080/live/Osman25/Osman25/11.m3u8
+#EXTINF:-1,beyin1111
+http://redoiptv101.com:8080/live/Osman25/Osman25/51445.m3u8
+#EXTINF:-1,beyin1111
+http://redoiptv101.com:8080/live/Osman25/Osman25/15.m3u8
+#EXTINF:-1,beyin111
 http://he01.okcomputer.club:8880/live/YXLM0018/987416547/32886.m3u8
 #EXTINF:-1,beyin1
 http://lara.plumetech.xyz:8080/live/erdem65/65erdem/213610.m3u8
