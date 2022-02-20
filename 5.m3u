@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1 group-title=TR SPOR, BeIN SPORT 1 HD
+http://server.sibfungold.info:8080/live/gaicu84/iVMawDNfwV@/469.ts
+#EXTINF:-1 group-title=TR SPOR, BeIN SPORT 1 HD
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/682946.ts
+#EXTINF:-1 group-title=TR SPOR, BeIN SPORT 1 HD
+http://klasman1.xyz/hls/b1.m3u8
+#EXTINF:-1 group-title=TR SPOR, BeIN SPORT 1 HD
+http://fasttvuk.com:2086/live/muhammad1/muhammad1/67507.ts
+#EXTINF:-1 group-title=TR SPOR, BeIN SPORT 2 HD
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/682947.m3u8
+#EXTINF:-1 group-title=TR SPOR, BeIN SPORT 3 HD
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/682948.m3u8
+#EXTINF:-1 group-title=TR SPOR, BeIN SPORT 4 HD
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/682949.m3u8
+#EXTINF:-1 group-title=TR SPOR, BeIN Max 1 HD
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/682953.m3u8
+#EXTINF:-1 group-title=TR SPOR, BeIN Max 2 HD
+http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/682954.m3u8
+#EXTINF:-1 group-title=TR SPOR, BeIN SPORT 2 HD
+http://klasman1.xyz/hls/b2.m3u8
+#EXTINF:-1 group-title=TR SPOR, BeIN SPORT 3 HD
+http://klasman1.xyz/hls/b3.m3u8
+#EXTINF:-1 group-title=TR SPOR, BeIN SPORT 4 HD
+http://klasman1.xyz/hls/b4.m3u8
+#EXTINF:-1 group-title=TR SPOR, BeIN Max 1 HD
+http://klasman1.xyz/hls/bb1.m3u8
+#EXTINF:-1 group-title=TR SPOR, BeIN Max 2 HD
+http://klasman1.xyz/hls/bb2.m3u8
+#EXTINF:-1 group-title=TR SPOR, Ssport 1 HD
+http://klasman1.xyz/hls/ss1.m3u8
+#EXTINF:-1 group-title=TR SPOR, Ssport 2 HD
+http://klasman1.xyz/hls/ss2.m3u8
+#EXTINF:-1 group-title=TR SPOR, Smart Spor 1 HD
+http://klasman1.xyz/hls/smrt1.m3u8
+#EXTINF:-1 group-title=TR SPOR, Smart Spor 2 HD
+http://klasman1.xyz/hls/smrt2.m3u8
 #EXTINF:-1,beyin1
 http://redoiptv101.com:8080/live/Osman25/Osman25/7.m3u8
 #EXTINF:-1,beyin11
