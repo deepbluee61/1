@@ -8,6 +8,10 @@ http://klasman1.xyz/hls/b1.m3u8
 #EXTINF:-1 group-title=TR SPOR, BeIN SPORT 1 HD
 http://fasttvuk.com:2086/live/muhammad1/muhammad1/67507.ts
 #EXTINF:-1 group-title=TR SPOR, BeIN SPORT 1 HD
+#EXTINF:-1 group-title=TR SPOR, BeIN SPORT 1 HD
+https://www.applegone.com/hlslive/70.m3u8
+#EXTINF:-1 group-title=TR SPOR, BeIN SPORT 1 HD
+https://s7yours.com/lba/MDA1NWEwN2ZkM2I0MzdkMGYzZjJhYWJjMTUxZDA1Yjc=/g1/beinsport1tur.m3u8
 https://nginxstreamcdn.tk/601/index.m3u8
 #EXTINF:-1 group-title=TR SPOR, BeIN SPORT 2 HD
 https://nginxstreamcdn.tk/602/index.m3u8
@@ -55,6 +59,28 @@ http://klasman1.xyz/hls/ss2.m3u8
 http://klasman1.xyz/hls/smrt1.m3u8
 #EXTINF:-1 group-title=TR SPOR, Smart Spor 2 HD
 http://klasman1.xyz/hls/smrt2.m3u8
+#EXTINF:-1, BEIN 1
+https://www.applegone.com/hlslive/70.m3u8
+#EXTINF:-1, BEIN 1
+https://s7yours.com/lba/MDA1NWEwN2ZkM2I0MzdkMGYzZjJhYWJjMTUxZDA1Yjc=/g1/beinsport1tur.m3u8
+#EXTINF:-1, BEIN 1 yabancı spiker
+https://s7yours.com/lba/NDlmZGIyOTVhNDRjODY4N2IxNGExYzYzOGNlNzg0NDE=/g3/ukrfoot1.m3u8
+#EXTINF:-1, BEIN 1 (maç saati akitf)
+http://klasman2.xyz/hls/b1.m3u8
+#EXTINF:-1, BEIN 2
+https://www.applegone.com/hlslive/71.m3u8
+#EXTINF:-1, S SPORT
+https://www.applegone.com/hlslive/190.m3u8
+#EXTINF:-1, S SPORT 2
+https://www.applegone.com/hlslive/401.m3u8
+#EXTINF:-1, SPOR SMART
+https://www.applegone.com/hlslive/402.m3u8
+#EXTINF:-1, SPOR SMART 2
+https://www.applegone.com/hlslive/403.m3u8
+#EXTINF:-1, EXXEN (MAÇ SAATİ AÇIK)
+https://www.applegone.com/hlslive/80.m3u8
+#EXTINF:-1, EXXEN (MAÇ SAATİ AÇIK)
+https://www.applegone.com/hlslive/81.m3u8
 #EXTINF:-1,beyin1
 http://redoiptv101.com:8080/live/Osman25/Osman25/7.m3u8
 #EXTINF:-1,beyin11
