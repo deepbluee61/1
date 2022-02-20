@@ -7,6 +7,26 @@ http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/682946.ts
 http://klasman1.xyz/hls/b1.m3u8
 #EXTINF:-1 group-title=TR SPOR, BeIN SPORT 1 HD
 http://fasttvuk.com:2086/live/muhammad1/muhammad1/67507.ts
+#EXTINF:-1 group-title=TR SPOR, BeIN SPORT 1 HD
+https://nginxstreamcdn.tk/601/index.m3u8
+#EXTINF:-1 group-title=TR SPOR, BeIN SPORT 2 HD
+https://nginxstreamcdn.tk/602/index.m3u8
+#EXTINF:-1 group-title=TR SPOR, BeIN SPORT 3 HD
+https://nginxstreamcdn.tk/603/index.m3u8
+#EXTINF:-1 group-title=TR SPOR, BeIN SPORT 4 HD
+https://nginxstreamcdn.tk/604/index.m3u8
+#EXTINF:-1 group-title=TR SPOR, BeIN SPORT max HD
+https://nginxstreamcdn.tk/605/index.m3u8
+#EXTINF:-1 group-title=TR SPOR, BEİN MAX 2 HD
+https://nginxstreamcdn.tk/606/index.m3u8
+#EXTINF:-1 group-title=TR SPOR, SsPORT 1 HD
+https://nginxstreamcdn.tk/607/index.m3u8
+#EXTINF:-1 group-title=TR SPOR, sport 2 HD
+https://nginxstreamcdn.tk/608/index.m3u8
+#EXTINF:-1 group-title=TR SPOR, Smartsport 1 HD
+https://nginxstreamcdn.tk/609/index.m3u8
+#EXTINF:-1 group-title=TR SPOR, Smart sPORT 2 HD
+https://nginxstreamcdn.tk/610/index.m3u8
 #EXTINF:-1 group-title=TR SPOR, BeIN SPORT 2 HD
 http://satelliteiptv.xyz:8080/live/iptvpoint/85g7sjaS6t/682947.m3u8
 #EXTINF:-1 group-title=TR SPOR, BeIN SPORT 3 HD
