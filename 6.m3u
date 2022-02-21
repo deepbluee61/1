@@ -267,4 +267,47 @@ http://93.157.62.180/KSport4/index.m3u8
 http://152.89.61.154:25461/live/spor/spor/2.m3u8
 #EXTINF:-1, BEIN 1 (maç saati akitf)
 http://11121314.org:8000/live/Exchange/Vjkfdbbnfdd/162818.m3u8
-
+#EXTINF:-1,beIN Spor 1 Hd
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/52974.ts
+#EXTINF:-1,beIN Spor 1 Hd.
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/58659.ts
+#EXTINF:-1,beIN Spor 1 UHD
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/52977.ts
+#EXTINF:-1,Bein Sport 4K
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/165693.ts
+#EXTINF:-1,beIN Spor 1 Sd
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/118246.ts
+#EXTINF:-1,BeIN Spor 1 Sd [ Mobile ]
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/7042.ts
+#EXTINF:-1,BeIN Spor 2 Sd
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/8302.ts
+#EXTINF:-1,beIN Spor 2 Hd
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/52980.ts
+#EXTINF:-1,BeIN Spor 3 Sd
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/8301.ts
+#EXTINF:-1,beIN Spor 3 Hd
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/52981.ts
+#EXTINF:-1,beIN Spor 4 Sd
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/19629.ts
+#EXTINF:-1,beIN Spor Max 1 Sd
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/19630.ts
+#EXTINF:-1,Bein Spor Max 1 Hd
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/6977.ts
+#EXTINF:-1,beIN Spor Max 2 Sd
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/19631.ts
+#EXTINF:-1,beIN Spor Max 2 Hd
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/6978.ts
+#EXTINF:-1,beIN Connect 1 Hd
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/122770.ts
+#EXTINF:-1,beIN Connect 2 Hd
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/122771.ts
+#EXTINF:-1,beIN Connect 3 Hd
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/122772.ts
+#EXTINF:-1,beIN Connect 4 Hd
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/122773.ts
+#EXTINF:-1,beIN Connect 5 Hd
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/122774.ts
+#EXTINF:-1,Spor Smart Hd
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/44016.ts
+#EXTINF:-1,Smart Spor 1 HD
+http://cixiptvtest102.xyz:8080/live/ergun/ergun2/56226.ts
