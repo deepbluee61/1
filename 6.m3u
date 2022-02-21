@@ -117,7 +117,7 @@ https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann22/chunklist.m3u8
 https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann66/chunklist.m3u8
 #EXTINF:-1, SPORT TV 2 (ALMANYA)
 https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann67/chunklist.m3u8
-https://raw.githubusercontent.com/deepbluee61/1/main/6.m3u pmpa 781350 son -----
+#EXTINF:-1 group-title=TR SPOR, pmpa 7813  son ---------
 https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann67/chunklist.m3u8
 #EXTINF:-1 group-title=TR SPOR, BeIN SPORT 1 HD
 https://nginxstreamcdn.tk/601/index.m3u8
