@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, BEIN 1 
+https://www.updownfiles.com/hlslive/85.m3u8
 #EXTINF:-1 group-title=TR SPOR, pmpa.09fb15 chann 1-100
 https://pmpa.09fb1529840428.cdn.fdcservers.com/test/chann1/chunklist.m3u8
 #EXTINF:-1 group-title=TR SPOR, Bein S1 chann35
@@ -255,6 +257,14 @@ http://redoiptv101.com:8080/live/Osman25/Osman25/40.ts
 http://redoiptv101.com:8080/live/Osman25/Osman25/41.ts
 #EXTINF:-1,Tivibu Spor 4 Hd
 http://redoiptv101.com:8080/live/Osman25/Osman25/34374.ts
+#EXTINF:-1, Ssport
+https://www.updownfiles.com/hlslive/190.m3u8
+#EXTINF:-1, Ssport 2
+https://www.updownfiles.com/hlslive/401.m3u8
+#EXTINF:-1, SporSmart1
+https://www.updownfiles.com/hlslive/402.m3u8
+#EXTINF:-1, SporSmart2
+https://www.updownfiles.com/hlslive/403.m3u8
 #EXTINF:-1, K Sport 1
 http://93.157.62.180/KSport1/index.m3u8
 #EXTINF:-1, K Sport 2
