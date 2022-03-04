@@ -1,50 +1,51 @@
 #EXTM3U
 #EXTINF:-1, Bein S1
-http://levye.yavrumkafesi.xyz/fatih1/index.m3u8
+http://my.giant-iptv.com:8080/live/asmar/asmar/9375.m3u8
 #EXTINF:-1, Bein S1
-http://levye.yavrumkafesi.xyz/fatih2/index.m3u8
-#EXTINF:-1, Bein S2
-http://levye.yavrumkafesi.xyz/beinsport2/index.m3u8
-#EXTINF:-1, Bein S4
-http://portal.zexo.site:8080/zero/zero/6
-#EXTINF:-1, Bein S max
-https://pmpa.09fb1529840428.cdn.fdcservers.com/test/chann6/chunklist.m3u8
-#EXTINF:-1, Bein haber
-https://pmpa.09fb1529840428.cdn.fdcservers.com/test/chann8/chunklist.m3u8
-#EXTINF:-1, Tivibu spor 
-http://levye.yavrumkafesi.xyz/smartspor/index.m3u8
-#EXTINF:-1, Tivibu spor 2
-http://levye.yavrumkafesi.xyz/tivibu2/index.m3u8
-#EXTINF:-1, Tivibu spor 3
-http://levye.yavrumkafesi.xyz/tivibu3/index.m3u8
-#EXTINF:-1, Tivibu spor 4
-http://levye.yavrumkafesi.xyz/tivibu4/index.m3u8
-#EXTINF:-1, Dsmart spor 
-http://levye.yavrumkafesi.xyz/smartspor/index.m3u8
-#EXTINF:-1, Ssport 
-http://levye.yavrumkafesi.xyz/ssport1/index.m3u8
-#EXTINF:-1, Ssport2
-http://levye.yavrumkafesi.xyz/ssport2/index.m3u8
-#EXTINF:-1, beyin 1 MAÇ SAATİ AKTİF
-http://klasman1.xyz/hls/b1.m3u8
-#EXTINF:-1, beyin 2
-http://klasman1.xyz/hls/b2.m3u8
-#EXTINF:-1, beyin 3
-http://klasman1.xyz/hls/b3.m3u8
-#EXTINF:-1, beyin 4
-http://klasman1.xyz/hls/b4.m3u8
-#EXTINF:-1, beyin maks 1
-http://klasman1.xyz/hls/bb1.m3u8
-#EXTINF:-1, beyin maks 2
-http://klasman1.xyz/hls/bb2.m3u8
-#EXTINF:-1, Ssport 
-http://klasman1.xyz/hls/ss1.m3u8
-#EXTINF:-1, Ssport 2
-http://klasman1.xyz/hls/ss2.m3u8
-#EXTINF:-1, SporSmart1
-http://klasman1.xyz/hls/smrt1.m3u8
-#EXTINF:-1, SporSmart1
-http://klasman1.xyz/hls/smrt2.m3u8
-#EXTINF:-1, tivibu2
-http://klasman1.xyz/hls/tb2.m3u8
-
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann2/chunklist.m3u8
+#EXTINF:-1, Bein S1
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann34/chunklist.m3u8
+#EXTINF:-1, Bein S1
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann35/chunklist.m3u8
+#EXTINF:-1, Bein S1
+https://pmpa.7813501e6ced13.cdn.fdcservers.com/test/chann73/chunklist.m3u8
+#EXTINF:-1, BEIN 1 (maç saati akitf)
+http://152.89.61.154:25461/live/spor/spor/2.m3u8
+#EXTINF:-1, BEIN 1 (maç saati akitf)
+http://11121314.org:8000/live/Exchange/Vjkfdbbnfdd/162818.m3u8
+#EXTINF:-1, BEIN 1 (maç saati akitf)
+http://klasman2.xyz/hls/b1.m3u8
+#EXTINF:-1, Bein S1
+https://www.mediahosterze.com/hlslive/14.m3u8
+#EXTINF:-1, Rus1
+https://srv01.varcdn1.ru/ua1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Rus2
+https://srv01.varcdn1.ru/ua2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Rus2
+https://srv01.varcdn1.ru/ua3/tracks-v1a1/mono.m3u8
+#EXTINF:0,Bein-Sports-Hd-1
+http://plustlc.com:8080/live/melih@uysal/melih@uysal/227016.m3u8
+#EXTINF:0,Bein Sports Hd 1
+http://plustlc.com:8080/live/melih@uysal/melih@uysal/66217.m3u8
+#EXTINF:0,Bein Sports 1 Sd
+http://plustlc.com:8080/live/melih@uysal/melih@uysal/4740.m3u8
+#EXTINF:0,Bein Sports 1 UHD
+http://plustlc.com:8080/live/melih@uysal/melih@uysal/4738.m3u8
+#EXTINF:0,Bein Sports 1 Mobile
+http://plustlc.com:8080/live/melih@uysal/melih@uysal/4521.m3u8
+#EXTINF:0,Bein Sports 1 4K
+http://plustlc.com:8080/live/melih@uysal/melih@uysal/232639.m3u8
+#EXTINF:0,Bein Sports 1 4K
+http://plustlc.com:8080/live/melih@uysal/melih@uysal/180904.m3u8
+#EXTINF:0,Bein Sports 1 4K
+https://dl.dropbox.com/s/bo33h1cdvzdo7ba/bein4k.m3u8
+#EXTINF:0,Bein Sports 1 fhd
+https://dl.dropbox.com/s/bo33h1cdvzdo7ba/beinfhd.m3u8
+#EXTINF:0,Bein Sports 1
+https://dl.dropbox.com/s/bo33h1cdvzdo7ba/bein1.m3u8
+#EXTINF:0,Bein Sports 1
+https://cdn.plt.one/cdn/premium62/chunks.m3u8
+#EXTINF:0,Bein Sports 1
+https://cdn2.incstream.digital/7011/tracks-v1a1/mono.m3u8
+#EXTINF:0,Bein Sports 1
+https://cdn2.incstream.digital/7011/index.m3u8
