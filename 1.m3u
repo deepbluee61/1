@@ -69,3 +69,21 @@ https://www.mediacdnclub.club/hlslive/14.m3u8
 https://www.mediacdnclub.club/hlslive/35.m3u8
 #EXTINF:0,Bein Sports 1
 http://5.adsagesafvrtasdasdtg3d.com/fatih3/index.m3u8
+#EXTINF:0,K Sports 2
+https://list.iptvcat.com/my_list/s/aa201c80981bd342301e1d4112912ac9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",Матч! Футбол 1 HD
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",Матч! Футбол 2 HD
+https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",Матч! Футбол 3 HD
+https://chostv.mobie.in/choos/sports/matchqy3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",Football 1 Ukraine
+https://chostv.mobie.in/choos/sports/qyt1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WorldSports",Football 2 Ukraine
+https://chostv.mobie.in/choos/sports/qyt2.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Laliga mytgon 1
+https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Serie A mytgon 2
+https://95-213-224-182.livesports24.online:443/mfootball2rus.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",Serie A mytgon 3
+https://46-166-142-27.livesports24.online/rumatchf3.m3u8
