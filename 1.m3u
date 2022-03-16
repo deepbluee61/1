@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1, Bein S1
-https://sectokentest.parkbtcpanel.com/test/chann35/chunklist.m3u8?md5=pjoW07RgUp_5ECz-j6cv5w&expires=1647175341
+https://sectokentest.parkbtcpanel.com/test/chann35/chunklist.m3u8
+#EXTINF:-1, Bein S1
+https://sectokentest.parkbtcpanel.com/test/chann34/chunklist.m3u8
+#EXTINF:-1, Bein S1
+https://sectokentest.parkbtcpanel.com/test/chann2/chunklist.m3u8
+#EXTINF:-1, Bein S1
+https://sectokentest.parkbtcpanel.com/test/chann73/chunklist.m3u8
 #EXTINF:-1, Bein S1
 http://5.degilimaq.cc/fatih1/index.m3u8
 #EXTINF:-1, Bein S1
