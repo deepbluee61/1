@@ -1,7 +1,17 @@
 #EXTM3U
-#EXTINF:-1, Bein S1
+#EXTINF:-1, Bein S11
+https://uload.ru.com/cdn/premium62/chunks.m3u8
+#EXTINF:-1, Bein S11
+https://www.lshstream.xyz/hls/ga12/index.m3u8?st=5ORBAgHoXfhjvoMb0yzzHA&e=1650207193
+#EXTINF:-1, Bein S11
+http://185.53.88.179:8080/hls/streama145813/index.m3u8?cst=6716a160397b54f54856a7ea7b9694db
+#EXTINF:-1, Bein S11
+http://185.233.186.39:8080/hls/streama145813/index.m3u8?cst=125f3e5c99ac8e667a986a21663a3bc8
+#EXTINF:-1, Bein S11
+http://77.247.109.49:8080/hls/streama148354/index.m3u8?cst=97f9e4e1aed58b571fca36e2756d5985
+#EXTINF:-1, Bein S11
 https://www.kjinovideo.com/hlslive/67.m3u8
-#EXTINF:-1, Bein S1
+#EXTINF:-1, Bein S11
 https://6.yayinim6.tk/fatih1/index.m3u8
 #EXTINF:-1, Bein S1
 https://sectokentest.parkbtcpanel.com/test/chann35/chunklist.m3u8
