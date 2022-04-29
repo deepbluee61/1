@@ -2,6 +2,12 @@
 #EXTINF:-1, Bein*
 https://uload.ru.com/cdn/premium62/chunks.m3u8
 #EXTINF:-1, Bein*
+https://cdn.wecast.to:8443/hls/HuVWriNI89sR/312.ts
+#EXTINF:-1, Bein*
+https://cdn.wecast.to:8443/hls/HuVWriNI89sR/312.m3u8
+#EXTINF:-1, Bein*
+https://cdn.wecast.to:8443/hls/HuVWriNI89sR/index.m3u8?st=aqB-4ffJl30MpXBAapv82A&e=1651262564
+#EXTINF:-1, Bein*
 https://1005.metx.me:30443/live/spstream4/chunks.m3u8?nimblesessionid=29053411&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIyIDQ6NTM6MzIgUE0maGFzaF92YWx1ZT1NV0dycmtEWTRveW9aTU9sU1pMd1d3PT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:-1, Bein
 https://www.kenjstr.live/hlslive/190.m3u8
