@@ -1,6 +1,20 @@
 #EXTM3U
-#EXTINF:-1, Bein**
+#EXTINF:-1, Bein***
 https://uload.ru.com/cdn/premium62/chunks.m3u8
+#EXTINF:-1, Bein***
+https://cdn.wecast.to:8443/hls/HuVWriNI89sR/index.m3u8?st=qW-CKMMahNPNs_eftG5nWQ&e=1651264658
+#EXTINF:-1, Bein***
+http://185.53.88.143:8080/hls/streama159563/931.ts
+#EXTINF:-1, Bein***
+http://185.53.88.143:8080/hls/streama159563/931.m3u8
+#EXTINF:-1, Bein***
+https://1005.metx.me:30443/live/spstream4/chunks.m3u8?nimblesessionid=29055179&wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIyIDU6Mzc6MTkgUE0maGFzaF92YWx1ZT05SlR1Z0RNTnVmYWhVaHFiRStjek9nPT0mdmFsaWRtaW51dGVzPTEyMA==
+#EXTINF:-1, Bein***
+https://m2.quest123.top:8088/live/socolivepro40005/playlist.m3u8?vidictid=191117939632&id=115810&pk=949204121bfe0e348f2730f981ad782c793f7b88e4e88428eeda9ad16aeecf9df43268b83612fc0dbddfe465a76775f0e5bb28d6b178fcc54bb77abda360dbdd
+#EXTINF:-1, Bein**
+https://uload.ru.com/cdn/premium453/chunks.m3u8
+#EXTINF:-1, Bein**
+https://uload.ru.com/cdn/premium142/chunks.m3u8
 #EXTINF:-1, Bein*
 https://cdn.wecast.to:8443/hls/HuVWriNI89sR/312.ts
 #EXTINF:-1, Bein*
